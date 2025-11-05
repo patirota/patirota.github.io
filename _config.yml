@@ -8,9 +8,7 @@ baseurl: ""
 url: "https://patirota.github.io"  # Sitenin adresi
 
 # Yazar bilgileri
-author: "Fatih Mehmet Arslan"
-twitter_username: ""
-github_username: "patirota"
+author: "PatiRota"
 
 # Sosyal medya bağlantıları (İstersen ekle)
 social:
